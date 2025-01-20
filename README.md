@@ -1,4 +1,4 @@
-# Zentry Re-build Interactive Web Experience
+# Cyberkoko Re-build Interactive Web Experience
 
 This project is an interactive and visually captivating web application built with modern web technologies. It draws inspiration from the Zentry platform, featuring dynamic animations, geometric transitions, and immersive video storytelling. The website includes cutting-edge features like scroll-triggered animations, 3D hover effects, and smooth transitions to provide users with a modern and seamless experience.
 
@@ -22,13 +22,8 @@ This project is an interactive and visually captivating web application built wi
 
 ## 🔗 Demo
 
-Check out the [live demo](https://zentry-sage.vercel.app/) of the Zentry Re-build web experience hosted on Vercel.
+Check out the [live demo](https://cyberkoko.com/)
 
-
-
-## 🌍 Explore More Projects
-
-To view more of my work and other interactive projects, check out my [projects page](https://www.omnandurkar.me/all-projects).
 
 ## 📚 Architecture & Reusability
 
@@ -47,9 +42,6 @@ This project is hosted on Vercel for easy deployment. Vercel automatically handl
 
 Feel free to fork the repository, create a branch, and submit a pull request if you'd like to contribute. Contributions are always welcome!
 
-## 💬 Contact
-
-If you have any questions or feedback, feel free to reach out to me through my [portfolio website](https://www.omnandurkar.me/).
 
 ## License
 
