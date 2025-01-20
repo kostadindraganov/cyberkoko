@@ -7,9 +7,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "pages:build": "npx @cloudflare/next-on-pages",
-    "preview": "npm run pages:build && wrangler pages dev",
-    "deploy": "npm run pages:build && wrangler pages deploy"
+    "pages:build": "pnpm next-on-pages",
+    "pages:dev": "pnpm setup:dev && pnpm pages:build && pnpm wrangler pages dev --port=3000",
+    "pages:deploy": "pnpm setup:prod && pnpm pages:build && pnpm wrangler pages deploy"
   },
   "dependencies": {
     "@gsap/react": "^2.1.1",

@@ -14,7 +14,7 @@ import Glance from './components/Glance'
 import Labels from './components/Labels'
 import Updates from './components/Updates'
 
-export const runtime = 'edge' // 'nodejs' (default) | 'edge'
+export const runtime = 'edge';
 
 function App() {
   const comp = useRef(null);
